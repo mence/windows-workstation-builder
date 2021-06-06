@@ -23,6 +23,7 @@ Write-Output "--- Installing gaming clients ---"
 choco install steam-client
 choco install goggalaxy
 choco install epicgameslauncher
+choco install origin
 choco install itch
 
 Write-Output "--- Installing gaming tools ---"
@@ -76,3 +77,7 @@ choco install f.lux
 Write-Output "--- Installing fonts ---"
 choco install firacodenf
 choco install inconsolata
+
+Write-Output "--- Installing Chrome Extensions ---"
+choco install ublockorigin-chrome
+choco install https-everywhere-chrome
