@@ -101,7 +101,7 @@ choco install powertoys
 choco install startuplist.portable
 choco install displayfusion
 choco install bulk-crap-uninstaller
-choco install windrstat
+choco install windirstat
 choco install guiformat
 
 Write-Output "--- Installing desktop modification utilities ---"
