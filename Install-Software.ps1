@@ -69,7 +69,7 @@ choco install ripgrep
 choco install bottom
 choco install ag
 choco install nmap
-choco install ntop
+choco install ntop.portable
 choco install gotop
 choco install tldr
 choco install tldr-plusplus
@@ -101,7 +101,7 @@ choco install powertoys
 choco install startuplist.portable
 choco install displayfusion
 choco install bulk-crap-uninstaller
-choco install windirstat
+choco install windiirstat
 choco install guiformat
 
 Write-Output "--- Installing desktop modification utilities ---"
